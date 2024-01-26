@@ -1,0 +1,21 @@
+# Homepage: https://github.com/EvilChaosMaker/Sub-uBlacklist
+
+
+# Hosts Start
+
+# Disable PotPlayer Update
+127.0.0.1 t1.daumcdn.net
+
+
+
+# Disable Fork Activation Check
+127.0.0.1 v3.paddleapi.com
+
+
+
+# Disable Piriform Software License Check
+127.0.0.1 license.piriform.com
+
+
+
+# Hosts End
