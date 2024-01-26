@@ -3,18 +3,26 @@
 
 # Hosts Start
 
-# Disable PotPlayer Update
+# Disable PotPlayer update
 127.0.0.1 t1.daumcdn.net
 
 
 
-# Disable Fork Activation Check
+# Disable Fork activation check
 127.0.0.1 v3.paddleapi.com
 
 
 
-# Disable Piriform Software License Check
+# Disable Piriform Software license check
 127.0.0.1 license.piriform.com
+
+
+
+# Make Notion connect faster
+172.64.148.154 notion.so
+104.18.41.2 notion.com
+104.18.32.9 notion.site
+104.18.41.2 api.notion.com
 
 
 
