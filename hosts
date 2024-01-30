@@ -1,22 +1,16 @@
 # Homepage: https://github.com/EvilChaosMaker/Sub-SwitchHosts
 
-
 # Hosts Start
+
 
 # Disable PotPlayer update
 127.0.0.1 t1.daumcdn.net
 
-
-
 # Disable Fork activation check
 127.0.0.1 v3.paddleapi.com
 
-
-
 # Disable Piriform Software license check
 127.0.0.1 license.piriform.com
-
-
 
 # Make Notion connect faster
 172.64.148.154 notion.so
@@ -24,6 +18,8 @@
 104.18.32.9 notion.site
 104.18.41.2 api.notion.com
 
+# Nake jsDelivr connect faster
+151.101.1.229 cdn.jsdelivr.net
 
 
 # Hosts End
