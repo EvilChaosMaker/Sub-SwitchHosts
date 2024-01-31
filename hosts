@@ -1,7 +1,6 @@
 # Homepage: https://github.com/EvilChaosMaker/Sub-SwitchHosts
 
-# Hosts Start
-
+# --------------------------------------------------- Hosts Start --------------------------------------------------
 
 # Disable PotPlayer update
 127.0.0.1 t1.daumcdn.net
@@ -21,5 +20,7 @@
 # Nake jsDelivr connect faster
 151.101.1.229 cdn.jsdelivr.net
 
+# Nake VirusTotal connect faster
+216.239.32.21 virustotal.com
 
-# Hosts End
+# ---------------------------------------------------- Hosts End ---------------------------------------------------
