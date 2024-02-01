@@ -11,6 +11,9 @@
 # Disable Piriform Software license check
 127.0.0.1 license.piriform.com
 
+# Disable license check and version check
+127.0.0.1 api.binaryfortress.com
+
 # Make Notion connect faster
 172.64.148.154 notion.so
 104.18.41.2 notion.com
