@@ -15,10 +15,8 @@
 127.0.0.1 api.binaryfortress.com
 
 # Make Notion connect faster
-172.64.148.154 notion.so
-104.18.41.2 notion.com
-104.18.32.9 notion.site
-104.18.41.2 api.notion.com
+119.28.13.121 www.notion.so
+119.28.13.121 msgstore.www.notion.so
 
 # Nake jsDelivr connect faster
 151.101.1.229 cdn.jsdelivr.net
