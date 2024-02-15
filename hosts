@@ -11,17 +11,19 @@
 # Disable Piriform Software license check
 127.0.0.1 license.piriform.com
 
-# Disable license check and version check
+# Disable DisplayFusion license check and version check
 127.0.0.1 api.binaryfortress.com
 
 # Make Notion connect faster
+# 119.28.13.121 exp.notion.so
 # 119.28.13.121 www.notion.so
+# 119.28.13.121 api.pgncs.notion.so
 # 119.28.13.121 msgstore.www.notion.so
 
-# Nake jsDelivr connect faster
+# Make jsDelivr connect faster
 151.101.1.229 cdn.jsdelivr.net
 
-# Nake VirusTotal connect faster
-216.239.32.21 virustotal.com
+# Make VirusTotal connect faster
+216.239.34.21 virustotal.com
 
 # ---------------------------------------------------- Hosts End ---------------------------------------------------
