@@ -2,28 +2,28 @@
 
 # --------------------------------------------------- Hosts Start --------------------------------------------------
 
-# Disable PotPlayer update
+# Disable PotPlayer update.
 127.0.0.1 t1.daumcdn.net
 
-# Disable Fork activation check
+# Disable Fork activation check.
 127.0.0.1 v3.paddleapi.com
 
-# Disable Piriform Software license check
+# Disable Piriform Software license check.
 127.0.0.1 license.piriform.com
 
-# Disable DisplayFusion license check and version check
+# Disable DisplayFusion license check and version check.
 127.0.0.1 api.binaryfortress.com
 
-# Make Notion connect faster
+# Make Notion connect faster.
 # 119.28.13.121 exp.notion.so
 # 119.28.13.121 www.notion.so
 # 119.28.13.121 api.pgncs.notion.so
 # 119.28.13.121 msgstore.www.notion.so
 
-# Make jsDelivr connect faster
+# Make jsDelivr connect faster.
 151.101.1.229 cdn.jsdelivr.net
 
-# Make VirusTotal connect faster
+# Make VirusTotal connect faster.
 216.239.34.21 virustotal.com
 
 # ---------------------------------------------------- Hosts End ---------------------------------------------------
