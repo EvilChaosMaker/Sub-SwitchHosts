@@ -26,7 +26,4 @@
 # Make VirusTotal connect faster.
 216.239.34.21 virustotal.com
 
-# Set EA app as US store.
-92.38.149.175 service-aggregation-layer.juno.ea.com
-
 # ---------------------------------------------------- Hosts End ---------------------------------------------------
